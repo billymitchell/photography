@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "click"
+AuthUserFile "/home/billymit/.htpasswds/public_html/photography/we-click-dc/passwd"
+require valid-user
